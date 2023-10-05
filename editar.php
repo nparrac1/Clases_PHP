@@ -33,7 +33,7 @@
             
         <div class="input-group mb-3">
           <span class="input-group-text" id="basic-addon1">Nombre</span>
-          <input type="text" name="nombre" class="form-control" placeholder="Peugot">
+          <input type="text" name="nombre" class="form-control" value=<?php echo $nombre ?> placeholder="Peugot">
         </div>
 
         <div class="input-group mb-3">
